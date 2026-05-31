@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Smart • Secure • Real-Time • AI Powered
+# Smart • Secure • Real-Time • 
 
 EduFlow is a modern **AI-powered School Management System** designed to digitize and automate school operations using **React, TypeScript, Firebase, and modern web technologies**.
 
