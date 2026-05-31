@@ -1,0 +1,6 @@
+{
+  "name": "EduFlow",
+  "description": "A complete school management system with roles for Admins, Teachers, and Students, complete with attendance tracking, marks entry, notices, fees payment status, and AI comments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
